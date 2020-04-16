@@ -6,6 +6,8 @@ Dataiku XAI showcase project using XAI features like PDP and SHAP.
 - Download zip file
 - Import project in [Dataiku](https://www.dataiku.com/)  
 
-<center><img src="img/overview.png" alt="overview" width="500"/></center>
+<img src="img/overview.png" alt="overview" width="750"/>
+*Fig 1: Dataiku project overview*
 
-<center><img src="img/shap.png" alt="overview" width="500"/></center>
+<img src="img/shap.png" alt="overview" width="750"/>
+*Fig 2: Single prediction explanation using Shapley Values*
